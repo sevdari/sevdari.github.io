@@ -1,0 +1,11 @@
+title: Klejdi’s Notes
+description: Thoughts on life.
+theme: minima
+show_excerpts: false
+minima:
+  date_format: "%b %-d, %Y"
+  social_links: []
+  feed:
+    show: false
+sass:
+  style: compressed

@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #111;
+}
+
+footer {
+  display: none;
+}
+
+
+.site-nav {
+  display: none;
+}
+
+/* cherry next to site title */
+.site-title::after {
+  content: "";
+  display: inline-block;
+  width: 1em; 
+  height: 1em;
+  margin-left: .35em;
+  background: url('{{ "/assets/cherry.png" | relative_url }}') no-repeat center / contain;
+  vertical-align: -0.2em; /* nudge down a bit */
+}
+
+.site-header {
+  border-top: none;
+}
