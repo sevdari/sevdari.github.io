@@ -1,16 +1,26 @@
-### **A Pound of Wisdom**
+---
+layout: post
+title: "A Pound of Wisdom"
+date: 2025-10-07
+---
+Sam is the most British (and perhaps the smartest) person I know, and this advice came straight from him, so the title feels fitting.
 
-Sam is the most British person I know, and this advice came straight from him, so the title seems fitting.  
+One day, I told him I’d made a terrible decision - one that felt irreversible. His reply?
+> “You don’t save £1000 in four big goes; you do it a pound at a time.”
 
-One day, I told him I’d made a terrible decision - one that felt irreversible. His advice? 
-> “You don’t save a thousand pounds by four £250 saves. You save it by saving a pound a day.”  
+What he meant was that no single decision defines your life. The small choices we make each day compound, shaping us far more than any one dramatic moment.
 
-What Sam was getting at was that no single decision defines your life. We make small choices every day, and their compounding effect ends up mattering far more than one big decision ever could.  
+It made me realise how often I treat life like it hinges on a few milestones, when in reality it’s built out of the quiet in-betweens. If you’ve really stumbled, you won’t rebuild everything in a sweeping gesture; you’ll do it gradually, step by step. A pound a day. A little better each time.
 
-It made me realise how often I treat life like it’s made of a few big moments, when in reality it’s shaped by all the small ones in between. If you’ve really messed up, you won’t rebuild your life in one grand gesture; you’ll do it in small, steady steps. A pound a day. A bit better each time.  
+You see it everywhere. Consistency outlasts intensity. You don’t prepare for a marathon by cramming in five half-marathons the week before; you train in steady kilometres until it becomes part of who you are. And the same goes for dating: a quick haircut before the big night matters less than the long-term effort of becoming someone interesting, healthy, and confident.
 
-It’s a pattern that repeats itself everywhere.  
+In the end, real change never arrives in a single moment. It gathers quietly, in layers, pound by pound, choice by choice.
 
-Consistency beats intensity. You don’t train for a marathon by running five half-marathons the week before; you run a few kilometres, again and again, until it becomes part of you. And if you want your next date to go well, there’s no point getting an expensive haircut the day before. It’s far better to invest in your body, your mind, and your habits - to become someone worth dating, not just someone ready for a date.
+---
 
-In the end, nothing truly changes overnight; it all adds up slowly, quietly, pound by pound.  
+**PS:** As I was writing this, Sam texted me the following:
+
+![Sam’s text](/assets/IMG_6678.jpg)
+
+Again, excellent advice, albeit a bit more cliché this time.
+
