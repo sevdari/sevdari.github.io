@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bocconi vs ETH"
-date: 2025-10-07
+date: 2026-01-19
 ---
 I genuinely love the way ETH teaches, and it feels fundamentally different from my experience at Bocconi. At Bocconi, there was a strong emphasis on breadth: a lot of material was covered, and understanding was reinforced through exercises that closely mirrored the lectures. The problems were challenging, but they rarely demanded a real leap of insight - you could usually solve them by applying what had just been taught.
 
