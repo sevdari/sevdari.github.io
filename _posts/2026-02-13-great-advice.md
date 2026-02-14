@@ -13,7 +13,6 @@ The International Baccalaureate is a two-year marathon. In the end, the only gra
 
 I attribute a large part of my achievements to this mindset. One of my main strengths today is breaking down complex tasks into small, manageable pieces, putting them into a calendar (Google Calendar, in my case), and - most importantly - executing exactly as planned.
 
----
 
 > Underpromise, overdeliver.  
 >> Joris at DDG
@@ -24,7 +23,6 @@ One thing I appreciated was that the founders would sit down with us interns and
 
 It’s a powerful way to manage expectations - with others and with yourself. Underpromising makes goals realistic. The momentum of hitting them builds confidence. And that momentum often leads you to exceed what you initially committed to.
 
----
 
 > It takes me four hours to read a page of a Linear Algebra book.  
 >> Fabio Maccheroni, Professor of Linear Algebra at Bocconi, in response to a student complaining that it takes him an hour to read a page of Linear Algebra.
